@@ -10,7 +10,7 @@ public class Ex2 {
         Scanner sc = new Scanner(System.in);
         double R, A, pi = 3.14159;
 
-        System.out.println("Insert the value of the radius:");
+        System.out.println("Enter the value of the radius:");
         R = sc.nextDouble();
 
         A = pi * Math.pow(R, 2);
