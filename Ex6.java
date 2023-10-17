@@ -14,11 +14,11 @@ public class Ex6 {
 
         double A, B, C, triangle, circle, trapezoid, square, rectangle;
 
-        System.out.print("Insert the value of A: ");
+        System.out.print("Enter the value of A: ");
         A = sc.nextDouble();
-        System.out.print("Insert the value of B: ");
+        System.out.print("Enter the value of B: ");
         B = sc.nextDouble();
-        System.out.print("Insert the value of C: ");
+        System.out.print("Enter the value of C: ");
         C = sc.nextDouble();
 
         triangle = A * C / 2;
