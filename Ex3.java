@@ -8,13 +8,13 @@ public class Ex3 {
         Scanner sc = new Scanner(System.in);
         int A, B, C, D, dif;
 
-        System.out.println("Insert the value of A:");
+        System.out.println("Enter the value of A:");
         A = sc.nextInt();
-        System.out.println("Insert the value of B:");
+        System.out.println("Enter the value of B:");
         B = sc.nextInt();
-        System.out.println("Insert the value of C:");
+        System.out.println("Enter the value of C:");
         C = sc.nextInt();
-        System.out.println("Insert the value of D:");
+        System.out.println("Enter the value of D:");
         D = sc.nextInt();
 
         dif = A * B - C * D;
