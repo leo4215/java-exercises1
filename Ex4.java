@@ -9,11 +9,11 @@ public class Ex4 {
         int ID, hours;
         double wage, salary;
 
-        System.out.print("Insert the employee ID: ");
+        System.out.print("Enter the employee ID: ");
         ID = sc.nextInt();
-        System.out.print("Insert the amount of working hours: ");
+        System.out.print("Enter the amount of working hours: ");
         hours = sc.nextInt();
-        System.out.print("Insert the employee wage: ");
+        System.out.print("Enter the employee wage: ");
         wage = sc.nextDouble();
 
         salary = wage * hours;
