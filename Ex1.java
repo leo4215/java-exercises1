@@ -8,10 +8,10 @@ public class Ex1 {
         Scanner sc = new Scanner(System.in);
         int A, B, sum;
 
-        System.out.println("Insert the value of A:");
+        System.out.println("Enter the value of A:");
         A = sc.nextInt();
 
-        System.out.println("Insert the value of B:");
+        System.out.println("Enter the value of B:");
         B = sc.nextInt();
 
         sum = A + B;
